@@ -1,4 +1,8 @@
 # OVERVIEW
+Champsim is a trace-based simulator designed to model the performance of modern microprocessors, specifically focusing on cache hierarchy and branch prediction.
+It allows researchers and developers to evaluate and improve the performance of various microarchitectural components.
+
+
 This repository documents the improvement of Champsim in two distinct phases:
 Phase 1: Champsim Preliminary
 Phase 2: Champsim IPC Challenge
